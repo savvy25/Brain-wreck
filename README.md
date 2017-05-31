@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Brain Wreck
 
-You can use the [editor on GitHub](https://github.com/shubhanshusv/Brain-wreck/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Brain wreck is an android game, developed on unity. The game was developed during **Microsoft CODE-FUN-DO** , IIT Guwahati campus round.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Overview
 
-### Markdown
+The game comprises of 10 levels based on presence of mind and general common sense. The player needs to complete present level in order to advance to the next level. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shubhanshusv/Brain-wreck/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The player has to interact with the displayed screen elements in order to find the solution.
