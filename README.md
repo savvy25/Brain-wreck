@@ -47,4 +47,4 @@ The player has to interact with the displayed screen elements in order to find t
 
 ### Microsoft Certification
 
-![certificate](Images/Microsoft_ certificate.jpg)
+![certificate](Images/certificate.jpg)
