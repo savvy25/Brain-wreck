@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: c62089655e7284a45a577f081f810afc
+timeCreated: 1475738872
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bullet_g_7667952-Color_B01
+    100002: bullet_g_7667952-Color_C06
+    100004: //RootNode
+    100006: gun_barrel_g_8800906-Color_A21
+    100008: gun_barrel_g_8800907-Color_A01
+    100010: gun_barrel_g_8800908-Material3
+    100012: gun_barrel_g_8800908-Material4
+    100014: gun_barrel_g_8800908-Material7
+    100016: gun_barrel_g_8800908-Material8
+    100018: gun_barrel_g_8800909-Color_A01
+    100020: gun_barrel_g_8800910-Color_A21
+    100022: gun_barrel_g_8800911-Color_A21
+    100024: gun_barrel_g_8800912-Color_006
+    100026: gun_barrel_g_8800913-Color_A01
+    100028: gun_barrel_g_8800914-Color_A21
+    100030: gun_barrel_g_8800915-Color_A21
+    100032: gun_barrel_g_8800916-Color_A01
+    100034: gun_barrel_g_8800917-Color_A12
+    100036: gun_barrel_g_8800918-Color_A01
+    100038: gun_barrel_g_8800919-Default_Material
+    100040: gun_barrel_g_8800922-Color_H17
+    400000: bullet_g_7667952-Color_B01
+    400002: bullet_g_7667952-Color_C06
+    400004: //RootNode
+    400006: gun_barrel_g_8800906-Color_A21
+    400008: gun_barrel_g_8800907-Color_A01
+    400010: gun_barrel_g_8800908-Material3
+    400012: gun_barrel_g_8800908-Material4
+    400014: gun_barrel_g_8800908-Material7
+    400016: gun_barrel_g_8800908-Material8
+    400018: gun_barrel_g_8800909-Color_A01
+    400020: gun_barrel_g_8800910-Color_A21
+    400022: gun_barrel_g_8800911-Color_A21
+    400024: gun_barrel_g_8800912-Color_006
+    400026: gun_barrel_g_8800913-Color_A01
+    400028: gun_barrel_g_8800914-Color_A21
+    400030: gun_barrel_g_8800915-Color_A21
+    400032: gun_barrel_g_8800916-Color_A01
+    400034: gun_barrel_g_8800917-Color_A12
+    400036: gun_barrel_g_8800918-Color_A01
+    400038: gun_barrel_g_8800919-Default_Material
+    400040: gun_barrel_g_8800922-Color_H17
+    2300000: bullet_g_7667952-Color_B01
+    2300002: bullet_g_7667952-Color_C06
+    2300004: gun_barrel_g_8800906-Color_A21
+    2300006: gun_barrel_g_8800907-Color_A01
+    2300008: gun_barrel_g_8800908-Material3
+    2300010: gun_barrel_g_8800908-Material4
+    2300012: gun_barrel_g_8800908-Material7
+    2300014: gun_barrel_g_8800908-Material8
+    2300016: gun_barrel_g_8800909-Color_A01
+    2300018: gun_barrel_g_8800910-Color_A21
+    2300020: gun_barrel_g_8800911-Color_A21
+    2300022: gun_barrel_g_8800912-Color_006
+    2300024: gun_barrel_g_8800913-Color_A01
+    2300026: gun_barrel_g_8800914-Color_A21
+    2300028: gun_barrel_g_8800915-Color_A21
+    2300030: gun_barrel_g_8800916-Color_A01
+    2300032: gun_barrel_g_8800917-Color_A12
+    2300034: gun_barrel_g_8800918-Color_A01
+    2300036: gun_barrel_g_8800919-Default_Material
+    2300038: gun_barrel_g_8800922-Color_H17
+    3300000: bullet_g_7667952-Color_B01
+    3300002: bullet_g_7667952-Color_C06
+    3300004: gun_barrel_g_8800906-Color_A21
+    3300006: gun_barrel_g_8800907-Color_A01
+    3300008: gun_barrel_g_8800908-Material3
+    3300010: gun_barrel_g_8800908-Material4
+    3300012: gun_barrel_g_8800908-Material7
+    3300014: gun_barrel_g_8800908-Material8
+    3300016: gun_barrel_g_8800909-Color_A01
+    3300018: gun_barrel_g_8800910-Color_A21
+    3300020: gun_barrel_g_8800911-Color_A21
+    3300022: gun_barrel_g_8800912-Color_006
+    3300024: gun_barrel_g_8800913-Color_A01
+    3300026: gun_barrel_g_8800914-Color_A21
+    3300028: gun_barrel_g_8800915-Color_A21
+    3300030: gun_barrel_g_8800916-Color_A01
+    3300032: gun_barrel_g_8800917-Color_A12
+    3300034: gun_barrel_g_8800918-Color_A01
+    3300036: gun_barrel_g_8800919-Default_Material
+    3300038: gun_barrel_g_8800922-Color_H17
+    4300000: bullet_g_7667952-Color_B01
+    4300002: bullet_g_7667952-Color_C06
+    4300004: gun_barrel_g_8800906-Color_A21
+    4300006: gun_barrel_g_8800907-Color_A01
+    4300008: gun_barrel_g_8800908-Material3
+    4300010: gun_barrel_g_8800908-Material4
+    4300012: gun_barrel_g_8800908-Material7
+    4300014: gun_barrel_g_8800908-Material8
+    4300016: gun_barrel_g_8800909-Color_A01
+    4300018: gun_barrel_g_8800910-Color_A21
+    4300020: gun_barrel_g_8800911-Color_A21
+    4300022: gun_barrel_g_8800912-Color_006
+    4300024: gun_barrel_g_8800913-Color_A01
+    4300026: gun_barrel_g_8800914-Color_A21
+    4300028: gun_barrel_g_8800915-Color_A21
+    4300030: gun_barrel_g_8800916-Color_A01
+    4300032: gun_barrel_g_8800917-Color_A12
+    4300034: gun_barrel_g_8800918-Color_A01
+    4300036: gun_barrel_g_8800919-Default_Material
+    4300038: gun_barrel_g_8800922-Color_H17
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

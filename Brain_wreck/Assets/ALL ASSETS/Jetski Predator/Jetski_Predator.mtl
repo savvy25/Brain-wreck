@@ -1,0 +1,103 @@
+newmtl default
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 0.0901961 0.0901961 0.0901961
+Ks 1 1 1
+Km 0
+
+newmtl default_manubrium_loaded
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 0.0901961 0.0901961 0.0901961
+Ks 0.27451 0.27451 0.27451
+Km 0
+
+newmtl default_yellow
+d 1
+Ns 0.75
+Ni 0
+Ka 0 0 0
+Kd 1 1 0
+Ks 1 1 1
+Km 0
+
+newmtl default_red
+d 1
+Ns 0.75
+Ni 0
+Ka 0 0 0
+Kd 1 0 0
+Ks 1 1 1
+Km 0
+
+newmtl default_manubrium_dash
+d 1
+Ns 1
+Ni 0
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd /Maps/mnd1.jpg
+
+newmtl default_seat
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 0.27451 0.27451 0.27451
+Ks 1 1 1
+Km 0
+map_Kd /Maps/ch1.jpg
+
+newmtl default_jetski_predator2b.dash
+d 1
+Ns 1
+Ni 0
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd /Maps/cwl1.jpg
+
+newmtl default_jetski_predator2b.lights
+d 0.8
+Ns 1
+Ni 0
+Ka 0.0901961 0.2 0.321569
+Kd 0.501961 1 1
+Ks 1 1 1
+Km 0
+
+newmtl default_jetski_predator2bchrome
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.6 0.6 0.6
+Km 0
+
+newmtl default_jetski_predator2b
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd /Maps/gx3.jpg
+
+newmtl default_jetski_predator2bmirrors
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+

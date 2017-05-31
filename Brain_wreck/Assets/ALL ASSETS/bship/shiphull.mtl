@@ -1,0 +1,715 @@
+newmtl aaturrent_001
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd runko.png
+map_Ka runko.png
+map_bump runko_bump.png
+bump runko_bump.png
+
+newmtl big_gun
+Kd 0.847059 0.862745 0.870588
+Ke 0 0 0
+Ka 0.5 0.5 0.5
+Ks 0 0 0
+Ns 250
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl big_gun2
+Kd 0.235294 0.235294 0.235294
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.85 0.85 0.85
+Ns 509
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl biggun001
+Kd 0.513726 0.494118 0.372549
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd runko.png
+map_Ka runko_bump.png
+map_bump runko_bump.png
+bump runko_bump.png
+
+newmtl biggun002
+Kd 0.513726 0.494118 0.372549
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd runko.png
+map_Ka runko_bump.png
+map_bump runko_bump.png
+bump runko_bump.png
+
+newmtl biggun003
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd runko.png
+map_Ka runko_bump.png
+map_bump runko_bump.png
+bump runko_bump.png
+
+newmtl biggunstuff
+Kd 0.32549 0.333333 0.258824
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl black
+Kd 0 0 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.18 0.18 0.18
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl chain
+Kd 0.729412 0.537255 0.329412
+Ke 0 0 0
+Ka 0.3 0.3 0.3
+Ks 0.34 0.34 0.34
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Default
+Kd 0.32549 0.333333 0.258824
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Defaultshield
+Kd 0.32549 0.333333 0.258824
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl deck
+Kd 0.6 0.486275 0.317647
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd lankut02.png
+map_Ka lankut02.png
+map_bump lankut02.png
+bump lankut02.png
+
+newmtl deck11
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd runko.png
+map_Ka runko_bump.png
+map_bump runko_bump.png
+bump runko_bump.png
+
+newmtl deck11b
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd runko.png
+map_Ka runko_bump.png
+map_bump runko_bump.png
+bump runko_bump.png
+
+newmtl deck11c
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd lankut02.png
+map_Ka lankut02.png
+map_bump lankut02.png
+bump lankut02.png
+
+newmtl deck2
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd runko.png
+map_Ka runko_bump.png
+map_bump runko_bump.png
+bump runko_bump.png
+
+newmtl deck2b
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd runko.png
+map_Ka runko_bump.png
+map_bump runko_bump.png
+bump runko_bump.png
+
+newmtl deck3
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd lankut02.png
+map_Ka lankut02.png
+map_bump lankut02.png
+bump lankut02.png
+
+newmtl deck4
+Kd 0.670588 0.713726 0.647059
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd runko.png
+map_Ka runko_bump.png
+map_bump runko_bump.png
+bump runko_bump.png
+
+newmtl deck4b
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd runko.png
+map_Ka runko_bump.png
+map_bump runko_bump.png
+bump runko_bump.png
+
+newmtl deck4c
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd runko.png
+map_Ka runko_bump.png
+map_bump runko_bump.png
+bump runko_bump.png
+
+newmtl deck5
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd runko.png
+map_Ka runko_bump.png
+map_bump runko_bump.png
+bump runko_bump.png
+
+newmtl deck5b
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd runko.png
+map_Ka runko_bump.png
+map_bump runko_bump.png
+bump runko_bump.png
+
+newmtl deck6a
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd runko.png
+map_Ka runko_bump.png
+map_bump runko_bump.png
+bump runko_bump.png
+
+newmtl deck6b
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd runko.png
+map_Ka runko_bump.png
+map_bump runko_bump.png
+bump runko_bump.png
+
+newmtl deck6c
+Kd 0.505882 0.670588 0.639216
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd runko.png
+map_Ka runko_bump.png
+map_bump runko_bump.png
+bump runko_bump.png
+
+newmtl deck7
+Kd 0.619608 0.678431 0.603922
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd runko.png
+map_Ka runko_bump.png
+map_bump runko_bump.png
+bump runko_bump.png
+
+newmtl deck7b
+Kd 0.619608 0.678431 0.603922
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd runko.png
+map_Ka runko_bump.png
+map_bump runko_bump.png
+bump runko_bump.png
+
+newmtl deck8a
+Kd 0.623529 0.717647 0.6
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd runko.png
+map_Ka runko_bump.png
+map_bump runko_bump.png
+bump runko_bump.png
+
+newmtl deck8b
+Kd 0.623529 0.717647 0.6
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd runko.png
+map_Ka runko_bump.png
+map_bump runko_bump.png
+bump runko_bump.png
+
+newmtl deck8c
+Kd 0.623529 0.717647 0.6
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd runko.png
+map_Ka runko_bump.png
+map_bump runko_bump.png
+bump runko_bump.png
+
+newmtl deck9
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd runko.png
+map_Ka runko_bump.png
+map_bump runko_bump.png
+bump runko_bump.png
+
+newmtl deck9b
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd runko.png
+map_Ka runko_bump.png
+map_bump runko_bump.png
+bump runko_bump.png
+
+newmtl deckstuff001
+Kd 0.32549 0.333333 0.258824
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl deckstuff002
+Kd 0.32549 0.333333 0.258824
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl explos
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl glass
+Kd 0.878431 0.921569 0.905882
+Ke 0 0 0
+Ka 0.1 0.1 0.1
+Ks 0.84 0.84 0.84
+Ns 800
+Tr 0.92
+d 0.08
+Ni 1
+Tf 0 0 0
+
+newmtl glass2
+Kd 0.858824 0.823529 0.709804
+Ke 0.3 0.3 0.3
+Ka 1 1 1
+Ks 0.74 0.74 0.74
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl green
+Kd 0.32549 0.333333 0.258824
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl hullfront
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd runko.png
+map_bump runko_bump.png
+bump runko_bump.png
+
+newmtl hullplate001
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd runko.png
+map_bump runko_bump.png
+bump runko_bump.png
+
+newmtl hullplate002
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd runko.png
+map_bump runko_bump.png
+bump runko_bump.png
+
+newmtl hullplate003
+Kd 0.168627 0.270588 0.160784
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd runko.png
+map_bump runko_bump.png
+bump runko_bump.png
+
+newmtl hullplate004
+Kd 0.392153 0.392153 0.392153
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.1 0.1 0.1
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl hullred
+Kd 0.403922 0.145098 0.152941
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl hullred2
+Kd 0.403922 0.145098 0.152941
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl life_a
+Kd 0.921569 0.372549 0.0392157
+Ke 0 0 0
+Ka 0.6 0.6 0.6
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl life_b
+Kd 0.392153 0.392153 0.392153
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.1 0.1 0.1
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl lifeboat1
+Kd 0.568627 0.482353 0.360784
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 500
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl lifeboat2
+Kd 0.388235 0.227451 0.188235
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl light001
+Kd 0.164706 0.164706 0.164706
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.11 0.11 0.11
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl red
+Kd 0.427451 0.113725 0.113725
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl smokepipe
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd runko.png
+map_Ka runko.png
+map_bump runko.png
+bump runko.png
+
+newmtl window
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd runko.png
+
