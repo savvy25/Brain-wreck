@@ -1,0 +1,88 @@
+Initialize engine version: 5.3.1f1 (cc9cbbcc37b4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\SV's backup\Brain Wreck\Brain Wreck_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\SV's backup\Brain Wreck\Brain Wreck_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\SV's backup\Brain Wreck\Brain Wreck_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\SV's backup\Brain Wreck\Brain Wreck_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\SV's backup\Brain Wreck\Brain Wreck_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\SV's backup\Brain Wreck\Brain Wreck_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\SV's backup\Brain Wreck\Brain Wreck_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\SV's backup\Brain Wreck\Brain Wreck_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.486 seconds
+Platform assembly: F:\SV's backup\Brain Wreck\Brain Wreck_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\SV's backup\Brain Wreck\Brain Wreck_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.633173 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 23f8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.295893 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 503.
+Total: 0.529920 ms (FindLiveObjects: 0.045226 ms CreateObjectMapping: 0.019626 ms MarkObjects: 0.454400 ms  DeleteObjects: 0.008960 ms)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at musicchecker.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.053866 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 245.
+Total: 0.517546 ms (FindLiveObjects: 0.041813 ms CreateObjectMapping: 0.019200 ms MarkObjects: 0.437333 ms  DeleteObjects: 0.017920 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.686080 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 394.
+Total: 0.455680 ms (FindLiveObjects: 0.043093 ms CreateObjectMapping: 0.014080 ms MarkObjects: 0.387413 ms  DeleteObjects: 0.010666 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.857173 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 246.
+Total: 0.382720 ms (FindLiveObjects: 0.042666 ms CreateObjectMapping: 0.011093 ms MarkObjects: 0.265386 ms  DeleteObjects: 0.046933 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.489386 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 319.
+Total: 0.426240 ms (FindLiveObjects: 0.045226 ms CreateObjectMapping: 0.019626 ms MarkObjects: 0.347306 ms  DeleteObjects: 0.013226 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.768426 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 410.
+Total: 0.465066 ms (FindLiveObjects: 0.039680 ms CreateObjectMapping: 0.014933 ms MarkObjects: 0.392960 ms  DeleteObjects: 0.016213 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.620373 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 536.
+Total: 0.783786 ms (FindLiveObjects: 0.053760 ms CreateObjectMapping: 0.020480 ms MarkObjects: 0.695893 ms  DeleteObjects: 0.012800 ms)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at musicchecker.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.205333 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 410.
+Total: 0.447573 ms (FindLiveObjects: 0.038826 ms CreateObjectMapping: 0.013653 ms MarkObjects: 0.380160 ms  DeleteObjects: 0.014506 ms)
+
