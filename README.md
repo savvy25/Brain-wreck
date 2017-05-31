@@ -11,12 +11,18 @@ The player has to interact with the displayed screen elements in order to find t
 ### How to install?
 
 - **Desktop Version**
-1. Download the contents of the folder Desktop version.
-2. Click on Brain-wreck.exe.
-3. A small screen will appear asking you to choose screen resolution. Choose 1920 X 1080 resolution.(Note : game experience is best in this resolution)
+1. Visit https://github.com/shubhanshusv/Brain-wreck
+2. Download the contents of the folder Desktop version. (Note : the contents of desktop version folder, i.e, Brain_wreck_data folder and Brain wreck.exe file should be in the same directory)
+
+![desk](Images/desk.jpg)
+
+3. Click on Brain-wreck.exe.
+4. A small screen will appear asking you to choose screen resolution. Choose 1920 X 1080 resolution.(Note : game experience is best in this resolution)
 
 - **Android Version**
 1. Visit https://github.com/shubhanshusv/Brain-wreck and click on release.
+
+![android](Images/android.jpg)
 
 2. In the downloads section, click on brain-wreck.apk
 
@@ -41,4 +47,4 @@ The player has to interact with the displayed screen elements in order to find t
 
 ### Microsoft Certification
 
-![certificate](Images/Microsoft code-fun-do certificate.JPG)
+![certificate](Images/Microsoft_ certificate.jpg)
